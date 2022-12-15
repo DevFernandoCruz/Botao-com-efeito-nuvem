@@ -4,10 +4,10 @@
 
 ## 📕 Projeto / Project
 
-<p>Sidebar-Dropdown--Menu-in-HTML-CSS-JavaScript
+<p>Passe o mouse
 </p>
 
-<p>Sidebar-Dropdown--Menu-in-HTML-CSS-JavaScript
+<p>Hover Me
 </p>
 
 <br></br>
